@@ -1,0 +1,56 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+    text-align: center;
+    background-color: #011F3F;
+}
+h1{
+    color: #FEF2BF;
+    margin: 1rem;
+}
+#green
+{
+    height: 50%;
+    width: 20%;
+    margin: 10%;
+    border: 10px solid black;
+}
+#yellow
+{
+    height: 50%;
+    width: 20%;
+    border: 10px solid black;
+}
+#red
+{
+    height: 50%;
+    width: 20%; 
+    border: 10px solid black; 
+}
+#blue
+{
+    height: 50%;
+    width: 20%;
+    margin: 10%;
+    border: 10px solid black;
+}
+button
+{
+    height: 20%;
+    border: 10px solid black;
+}
+footer{
+    padding: 1%;
+    
+}
+p{
+    color: #FEF2BF;
+}
+.gameover
+{
+    background-color: red;
+}
